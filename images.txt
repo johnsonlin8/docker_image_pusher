@@ -1,2 +1,2 @@
-nginx
-luchenqun/mybookmark
+lobehub/lobe-chat:latest
+ydlhero/chatgpt-web-midjourney-proxy:latest
